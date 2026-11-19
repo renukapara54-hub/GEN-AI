@@ -2,4 +2,6 @@
 .env
 __pycache__/
 *.pyc
-"@ | Set-Content .gitignore
+"@ | Set-Content .gitignore.env
+__pycache__/
+*.pyc
